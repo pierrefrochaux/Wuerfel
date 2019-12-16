@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>Dice-App</name>
     <description>
-        App-Beschreibung
+        Dice
     </description>
     <author>
-        Dein Name
+        Pierre Frochaux
     </author>
 
     <!-- General settings -->
